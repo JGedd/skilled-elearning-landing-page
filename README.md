@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://www.frontendmentor.io/solutions/skilled-elearning-landing-page-TtYkTdaIOg)
-- Live Site URL: (https://gilded-pithivier-008d2f.netlify.app/)
+- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/skilled-elearning-landing-page-TtYkTdaIOg)
+- Live Site URL: [Netlify](https://gilded-pithivier-008d2f.netlify.app/)
 
 ## My process
 
