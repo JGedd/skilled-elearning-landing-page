@@ -13,7 +13,6 @@ This is a solution to the [Skilled e-learning landing page challenge on Frontend
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-
 ## Overview
 
 ### The challenge
@@ -40,16 +39,10 @@ Users should be able to:
 - CSS custom properties
 - Flexbox
 - CSS Grid
-- Mobile-first workflow
-- SASS
-
 
 ## Author
 
 - Frontend Mentor - [@JGedd](https://www.frontendmentor.io/profile/JGedd)
-- Twitter - [@John_geddis](https://www.frontendmentor.io/profile/JGedd)
-
-
 
 ## Acknowledgments
 
